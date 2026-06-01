@@ -6,7 +6,7 @@ This repository contains my daily Java programming and DSA practice.
 - Operators
 - Conditional Statements (if-else, switch).
 - Loops (while loop, reverse number, palindrome, factorial, digit logic).
-- - Functions and Methods (method creation, parameter passing, return types, function interaction, reusable logic, and modular programming concepts). *
+- Functions and Methods (method creation, parameter passing, return types, function interaction, reusable logic, and modular programming concepts). *
 
 ##  Language
 - Java
